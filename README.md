@@ -13,3 +13,5 @@
 2. `` cd `` into this folder
 3. run the following to compile and run the program    
     `` gcc thread_bsp.c -pthread -o run; ./run ``
+
+__Be aware while compiling this program, there can be some warning. You can safely ignore them.__
