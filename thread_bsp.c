@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <pthread.h> /* POSIX-Thread-Funktionen */   
+
 int zeit=0; /* globale Variable */  
 
 void *prog_a(void *arg)  /* Thread 1 */ 
@@ -12,7 +13,8 @@ void *prog_a(void *arg)  /* Thread 1 */
     } 
 } 
  
-void *prog_b(void *arg) /* Thread 2 */  { 
+void *prog_b(void *arg) /* Thread 2 */  
+{ 
     int i, t=3; 
     for(i=0; i<3; i++) 
     {  
