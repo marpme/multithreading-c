@@ -5,7 +5,7 @@
 ## Wanna run it ? 
 ### Requirements
 
-* GNU-Compiler-Collection (gcc) - freeware.
+* GNU-Compiler-Collection (``gcc``) - freeware.
 
 ### Installing steps
 
