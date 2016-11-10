@@ -5,7 +5,7 @@
 ## Wanna run it ? 
 ### Requirements
 
-* Gnu-C-Compiler (gcc) - freeware.
+* GNU-Compiler-Collection (gcc) - freeware.
 
 ### Installing steps
 
