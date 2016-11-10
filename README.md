@@ -6,6 +6,7 @@
 ### Requirements
 
 * GNU-Compiler-Collection (``gcc``) - freeware.
+[GCC homepage](https://gcc.gnu.org/ "GNU-Compiler-Collection")
 
 ### Installing steps
 
