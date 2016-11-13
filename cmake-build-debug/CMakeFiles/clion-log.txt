@@ -1,0 +1,4 @@
+"/Applications/CLion 2016.3 EAP.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/marvinpiekarek/Documents/developing/multithreading-c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/marvinpiekarek/Documents/developing/multithreading-c/cmake-build-debug
